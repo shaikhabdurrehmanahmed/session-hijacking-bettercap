@@ -36,7 +36,7 @@ A complete educational guide and presentation to demonstrate session hijacking u
 
 | Launching Bettercap | Capturing Cookies |
 |---------------------|-------------------|
-| ![](images/bettercap_launch.jpg) | ![](images/session_cookie.jpg) |
+| ![]("C:\Users\shaik\Downloads\04_browser_cookie_insert.jpg") | ![](images/session_cookie.jpg) |
 
 ---
 
