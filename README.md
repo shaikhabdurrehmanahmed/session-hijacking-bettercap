@@ -20,7 +20,7 @@ A complete educational guide and presentation to demonstrate session hijacking u
 
 ## 📥 Downloads
 
-- 📘 [Download PDF Guide](Complete Guide - PDF - Session Hijacking.pdf)
+- 📘 [Download PDF Guide]
   
 
 ---
@@ -32,13 +32,6 @@ A complete educational guide and presentation to demonstrate session hijacking u
 
 ---
 
-## 📸 Screenshots
-
-| Launching Bettercap | Capturing Cookies |
-|---------------------|-------------------|
-| ![]("C:\Users\shaik\Downloads\04_browser_cookie_insert.jpg") | ![](images/session_cookie.jpg) |
-
----
 
 ## 🛠 Tools Used
 
