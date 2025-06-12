@@ -20,7 +20,7 @@ A complete educational guide and presentation to demonstrate session hijacking u
 
 ## 📥 Downloads
 
-- 📘 [Download PDF Guide](Session_Hijacking_Guide_Hackistan.pdf)
+- 📘 [Download PDF Guide](Complete Guide - PDF - Session Hijacking.pdf)
   
 
 ---
